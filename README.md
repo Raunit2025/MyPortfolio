@@ -4,7 +4,7 @@ A personal developer portfolio website built using **React**, **Vite**, and **Ta
 
 ## 🔗 Live Site
 
-👉 [View Live Portfolio](https://your-netlify-link.netlify.app)
+👉 [View Live Portfolio](https://raunit-portfolio07.netlify.app/)
 
 ## 🚀 Tech Stack
 
@@ -59,8 +59,8 @@ npm run build
 📬 Contact
 Feel free to reach out via:
 
-Email: [your-email@example.com]
+Email: [raunitraj2336@gmail.com]
 
-LinkedIn: linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/raunitraj/
 
 © 2025 Raunit Raj. All rights reserved.
